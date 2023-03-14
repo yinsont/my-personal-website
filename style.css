@@ -1,3 +1,26 @@
 body {
-    background: grey;
+    background: #1A1A1D;
+}
+
+sectionsDivider {
+    width: 33.33333%;
+    text-align: center;
+    background-color: #950740;
+    float:left;
+}
+
+h1 {
+    text-align: center;
+    color: #aaaaaa;
+    font-family: cursive
+}
+
+h2 {
+    color: #aaaaaa;
+    font-family: cursive
+}
+
+p {
+    color: #aaaaaa;
+    font-family:cursive
 }
